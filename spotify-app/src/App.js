@@ -49,7 +49,7 @@ function App() {
     }
   }, [dispatch]);
 
-  //console.log("User Information" + user);
+  console.log("User Information" + user);
   return (
     <>
       <div className="App">
