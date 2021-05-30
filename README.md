@@ -1,4 +1,26 @@
-# React_Spotify_Clone
+# React_Spotify_Clone :musical_note:
+
+
+![Project4](https://user-images.githubusercontent.com/22108887/120114006-2efd6b00-c14b-11eb-9229-6bd5711f9a10.PNG)
+
+
+## Features :fire:
+
+:speaker: Rendering real data from spotify api<br>
+:speaker: UI design which looks exact like spotify<br>
+:speaker: Authenticates users by usign spotify authentication from spotify api.<br>
+
+## Tpoics :
+:speaker: 1. SPOTIFY API <br>
+:speaker: 2. Use of Material UI <br>
+:speaker: 3. Axios dependencie to make the requests<br>
+:speaker: 4. React Hooks <br>
+:speaker: 5. ASYNC Javascript <br>
+
+## TODO :computer:
+
+:pushpin: To make a working music player<br>
+
 
 # Getting Started with Create React App
 
